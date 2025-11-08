@@ -1,4 +1,4 @@
-![Portfolio Banner](image/zahra-portfolio-chatbot.png)
+![Portfolio Banner](images/zahra-portfolio-chatbot.png)
 
 Zahra Etebari – AI Portfolio Chatbot
 
