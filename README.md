@@ -1,3 +1,5 @@
+![Portfolio Banner](image/zahra-portfolio-chatbot.png)
+
 Zahra Etebari – AI Portfolio Chatbot
 
  Chat with My AI Projects
