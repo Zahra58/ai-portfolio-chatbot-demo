@@ -125,4 +125,4 @@ This repository is released under the MIT License
 .
 The chatbot backend and data embeddings remain private.
 ---
-[![Try Demo](https://img.shields.io/badge/💬_Try%20the%20Chatbot-Live%20Demo-blue?style=for-the-badge)](https://zahra-chatbot.onrender.com)
+[![Try Demo](https://img.shields.io/badge/💬_Try%20the%20Chatbot-Live%20Demo-blue?style=for-the-badge)](https://zahra-chatbot.onrender.com/)
