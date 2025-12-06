@@ -1,12 +1,18 @@
+![Portfolio Banner](images/zahra-portfolio-chatbot.png)
+
+
+
 # 🌌 Zahra's Galaxy Portfolio Chatbot
 
-An interactive AI-powered portfolio chatbot with a stunning galaxy theme featuring animated stars, nebula effects, and intelligent responses about Zahra Etebari's AI/ML projects and expertise.
+An interactive, AI-powered portfolio chatbot featuring a stunning galaxy theme with animated stars, nebula effects, and intelligent responses about Zahra Etebari's AI/ML projects and expertise.
+
+
 
 ---
 
 <div align="center">
 
-## 🚀 **LIVE DEMO** 🚀
+##  **LIVE DEMO** �
 
 <a href="https://ai-portfolio-support-chatbot-fpvo.onrender.com/">
   <img src="https://img.shields.io/badge/▶_TRY_DEMO-Launch_Galaxy_Chatbot-00D9A0?style=for-the-badge&labelColor=1a1a2e&color=00D9A0&logoColor=white" alt="Try Demo" height="80"/>
