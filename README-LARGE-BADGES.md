@@ -16,7 +16,7 @@ An interactive, AI-powered portfolio chatbot featuring a stunning galaxy theme w
 
 <div align="center">
 
-### [**👉 CLICK HERE TO TRY THE LIVE CHATBOT 👈**](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
+### [**👉 CLICK HERE TO TRY THE LIVE CHATBOT 👈**](https://ai-portfolio-support-chatbot.vercel.app/)
 
 **Experience the galaxy theme, ask about Zahra's journey, and explore her AI projects!**
 
@@ -26,7 +26,7 @@ An interactive, AI-powered portfolio chatbot featuring a stunning galaxy theme w
 
 ---
 
-<a href="https://ai-portfolio-support-chatbot-fpvo.onrender.com/">
+<a href="https://ai-portfolio-support-chatbot.vercel.app/">
   <img src="https://img.shields.io/badge/▶_TRY_DEMO-Launch_Galaxy_Chatbot-00D9A0?style=for-the-badge&labelColor=1a1a2e&color=00D9A0&logoColor=white" alt="Try Demo" height="80"/>
 </a>
 
@@ -79,7 +79,7 @@ Ask about:
 
 <div align="center">
 
-###  [**→ Try the Live Demo Now! ←**](https://ai-portfolio-support-chatbot-fpvo.onrender.com/) 
+###  [**→ Try the Live Demo Now! ←**](https://ai-portfolio-support-chatbot.vercel.app/) 
 
 </div>
 
@@ -103,10 +103,10 @@ MIT License
 
 **Made with 💜 and coffee by Zahra Etebari | 2025**
 
-[![Live Demo](https://img.shields.io/badge/_Status-Live_&_Running-success?style=for-the-badge)](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
-[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
-[![Galaxy](https://img.shields.io/badge/⭐_Stars-100_Animated-blueviolet?style=for-the-badge)](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/_Status-Live_&_Running-success?style=for-the-badge)](https://ai-portfolio-support-chatbot.vercel.app/)
+[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)](https://ai-portfolio-support-chatbot.vercel.app/)
+[![Galaxy](https://img.shields.io/badge/⭐_Stars-100_Animated-blueviolet?style=for-the-badge)](https://ai-portfolio-support-chatbot.vercel.app/)
 
-### [ **LAUNCH CHATBOT** ](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
+### [ **LAUNCH CHATBOT** ](https://ai-portfolio-support-chatbot.vercel.app/)
 
 </div>
